@@ -29,6 +29,7 @@ Code	Meaning	Example
 401	Unauthorized	Requires login/token
 403	Forbidden	You’re not allowed
 404	Not Found	Page doesn’t exist
+422 
 429	Too Many Requests	Rate limited (API spam)
 
 🔥 5xx – Server Errors
